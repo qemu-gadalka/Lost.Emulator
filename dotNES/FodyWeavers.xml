@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Weavers>
+	<Costura IncludeNativeLibraries='true'>
+		<IncludeAssemblies>
+			SharpDX
+			SharpDX.Direct2D1
+			SharpDX.Direct3D11
+			SharpDX.DXGI
+			SharpDX.Mathematics
+			OpenGL.Net
+			OpenGL.Net.WinForms
+		</IncludeAssemblies>
+	</Costura>
+</Weavers>
