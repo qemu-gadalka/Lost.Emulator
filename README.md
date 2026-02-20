@@ -1,9 +1,7 @@
-# Emulator.NES [![Linux Build Status](https://travis-ci.org/Xyene/Emulator.NES.svg?branch=master)](https://travis-ci.org/Xyene/Emulator.NES) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/gup13j6tw463siny?svg=true)](https://ci.appveyor.com/project/Xyene/emulator-nes)
-
 # Lost.Emulator...
 
  A C# emulator for NES hardware.
-* Based ON: [Xyene/Emulator.NES](http://github.com/Xyene/Emulator.NES/)
+ Based ON: [Xyene/Emulator.NES](http://github.com/Xyene/Emulator.NES/)
 ![](http://i.imgur.com/aef0cM9.png) <!-- Donkey Kong -->
 ![](http://i.imgur.com/OjrvRmz.png) <!-- Super Mario Bros -->
 ![](http://i.imgur.com/OKPWHhP.png) <!-- Zelda -->
